@@ -41,10 +41,9 @@ Welcome to my GitHub profile! I'm an **Engineer** specializing in **Cloud Comput
 
 ---
 
-## 📊 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedbenali&show_icons=true&theme=radical)
 
----
+
+
 
 ### 🌐 Connect with Me
 
